@@ -32,3 +32,6 @@ Angular监听文件变化自动构建：`npm run develop`，建议在idea添加�
 发布：`mvn package`
 
 配置步骤参考[SpringMVC Angular2 Intellij Idea 开发环境搭建](https://www.pocketdigi.com/20170214/1567.html)
+
+要下载个zookeeper服务器
+还有编译后的dist在tomcat下无法起作用。
